@@ -7,7 +7,8 @@ Haverá espaço para trazer tópicos mais técnicos, mas a essência desse espa�
 
 ## Encontros
 
-| Assunto                                    | Data/Horário           | Link                                                                                                                                                      |
-| ------------------------------------------ | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Freelancer: como sei o quanto devo cobrar? | 24/09/2022 às 10:00 AM | <img border="0" style="filter: grayscale(100%)" width="28" src="https://ssl.gstatic.com/calendar/images/conferenceproviders/logo_meet_2020q4_192px.svg">  |
-| Vale a pena ser PJ?                        | 15/10/2022 às 10:00 AM | <img border="0" style="filter: grayscale(100%)" width="28" src="https://ssl.gstatic.com/calendar/images/conferenceproviders/logo_meet_2020q4_192px.svg"> |
+| Assunto                                                                  | Data/Horário           | Link                                                                                                                                                     |
+| ------------------------------------------------------------------------ | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Freelancer: como sei o quanto devo cobrar?                               | 24/09/2022 às 10:00 AM | <img border="0" style="filter: grayscale(100%)" width="28" src="https://ssl.gstatic.com/calendar/images/conferenceproviders/logo_meet_2020q4_192px.svg"> |
+| Vale a pena ser PJ?                                                      | 15/10/2022 às 10:00 AM | <img border="0" style="filter: grayscale(100%)" width="28" src="https://ssl.gstatic.com/calendar/images/conferenceproviders/logo_meet_2020q4_192px.svg"> |
+| Quais conselhos você daria para quem está começando? Papo sobre carreira | 05/11/2022 às 9:00 AM  | <img border="0" width="28" src="https://ssl.gstatic.com/calendar/images/conferenceproviders/logo_meet_2020q4_192px.svg">                                 |
